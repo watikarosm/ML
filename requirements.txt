@@ -1,0 +1,11 @@
+pip install scikit-learn
+pip install numpy
+pip3 install torch torchvision torchaudio
+pip install Pillow
+pip install requests
+pip install opencv-python
+pip install --no-deps lvis
+pip install tf_slim
+pip install --no-deps tensorflowjs==1.4.0
+pip install tensorflow==1.15.2
+pip install tensorflow_hub
